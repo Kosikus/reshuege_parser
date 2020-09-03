@@ -1,0 +1,194 @@
+# 1 Кодирование и операции над числами в разных системах счисления
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=210&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=349&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=347&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=346&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=212&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=211&print=true
+
+# 2 Построение таблиц истинности логических выражений
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=354&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=353&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=352&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=355&print=true
+
+# 3 Анализ информационных моделей
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=358&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=357&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=213&print=true
+
+# 4 Базы данных. Файловая система
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=328&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=316&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=359&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=283&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=282&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=223&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=222&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=224&print=true
+
+# 5 Кодирование и декодирование информации
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=369&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=230&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=231&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=232&print=true
+
+# 6 Анализ и построение алгоритмов для исполнителей
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=364&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=362&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=363&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=273&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=238&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=221&print=true
+
+# 7 Анализ диаграмм и электронных таблиц
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=367&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=227&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=225&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=226&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=242&print=true
+
+# 8 Анализ программ
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=371&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=372&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=278&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=245&print=true
+
+# 9 Кодирование и декодирование информации. Передача информации
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=374&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=375&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=376&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=229&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=252&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=251&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=250&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=228&print=true
+
+# 10 Перебор слов и системы счисления
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=378&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=379&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=381&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=380&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=382&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=244&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=243&print=true
+
+# 11 Рекурсивные алгоритмы
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=387&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=386&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=384&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=275&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=279&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=209&print=true
+
+# 12 Организация компьютерных сетей. Адресация
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=345&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=348&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=255&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=253&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=254&print=true
+
+# 13 Вычисление количества информации
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=350&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=351&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=276&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=265&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=266&print=true
+
+# 14 Выполнение алгоритмов для исполнителя Робот
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=356&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=272&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=280&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=237&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=236&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=235&print=true
+
+# 15 Поиск путей в графе
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=361&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=365&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=281&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=203&print=true
+
+# 16 Кодирование чисел. Системы счисления
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=366&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=247&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=248&print=true
+
+# 17 Запросы для поисковых систем с использованием логических выражений
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=368&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=258&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=256&print=true
+
+# 18 Преобразование логических выражений
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=370&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=373&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=233&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=234&print=true
+
+# 19 Обработка массивов и матриц
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=392&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=388&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=389&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=284&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=268&print=true
+
+# 20 Анализ программы с циклами и условными операторами
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=393&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=394&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=396&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=285&print=true
+
+# 21 Анализ программ с циклами и подпрограммами
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=397&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=399&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=398&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=261&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=262&print=true
+
+# 22 Оператор присваивания и ветвления. Перебор вариантов, построение дерева
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=400&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=277&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=217&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=183&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=260&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=259&print=true
+
+# 23 Логические уравнения
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=287&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=263&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=264&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=300&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=308&print=true
+
+# 24 Исправление ошибок в программе
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=309&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=307&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=310&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=270&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=194&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=311&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=312&print=true
+
+# 25 Алгоритмы обработки массивов
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=306&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=288&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=289&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=271&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=195&print=true
+
+# 26 Выигрышная стратегия
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=290&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=196&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=304&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=305&print=true
+
+# 27 Программирование
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=401&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=403&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=402&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=404&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=405&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=240&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=294&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=303&print=true
+https://inf-ege.sdamgia.ru/test?filter=all&category_id=197&print=true
